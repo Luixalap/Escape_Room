@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 60
+  controlID: 54
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 61
+  controlID: 55
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 62
+  controlID: 56
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -360,9 +360,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 70fbffff
+      m_SelectedIDs: e623feff
+      m_LastClickedID: -121882
+      m_ExpandedIDs: a025feffa425feff1427feff722afeffc62ffeff1238feff103efeff4e48feffa8c6feff0ec9feff2cd0feffccd2feff04d7feff98d9feff82e3feffa8eafeffbaebfefff0ecfeff46fbffff90da000052db00006edf0000c2e00000ece00000e6e10000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -422,9 +422,9 @@ MonoBehaviour:
   m_PlayAudio: 1
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: -2.0291445, y: 7.23088, z: 6.521949}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: -2.0291445, y: 7.23088, z: 6.521949}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -470,13 +470,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.0070111398, y: 0.97490084, z: -0.22037219, w: 0.031013204}
+    m_Target: {x: 0.021710638, y: 0.91035235, z: -0.048115134, w: 0.41049242}
     speed: 2
-    m_Value: {x: 0.00701114, y: 0.9749009, z: -0.22037219, w: 0.031013204}
+    m_Value: {x: 0.02156585, y: 0.9115653, z: -0.048179284, w: 0.40775305}
   m_Size:
-    m_Target: 28.977518
+    m_Target: 29.564173
     speed: 2
-    m_Value: 28.977518
+    m_Value: 28.291075
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -614,7 +614,7 @@ MonoBehaviour:
     x: 349
     y: 73
     width: 1038
-    height: 567
+    height: 641
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &18
 MonoBehaviour:
@@ -655,20 +655,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Models
+    - Assets/Cartoon Temple Building Kit/Fbx/Ground Stones Tile
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Models
+  - Assets/Cartoon Temple Building Kit/Fbx/Ground Stones Tile
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\Unity Projects\GitHub\Escape_Room\EscapeRoom
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 98330000
-    m_LastClickedID: 13208
-    m_ExpandedIDs: 000000009433000000ca9a3b
+    scrollPos: {x: 0, y: 92}
+    m_SelectedIDs: 7e360000
+    m_LastClickedID: 13950
+    m_ExpandedIDs: 0000000094330000d63500000e360000383600008a36000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -723,7 +723,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300008637000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
